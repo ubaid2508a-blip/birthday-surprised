@@ -5,7 +5,7 @@
 // ⚠️ Yahan apni birthday date ka PIN likhein.
 // Example: 28 July 2010 = 28072010
 
-const CORRECT_PIN = "28072010";
+const CORRECT_PIN = "28072011";
 
 // ===========================
 // ELEMENTS
